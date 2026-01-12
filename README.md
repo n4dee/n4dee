@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Nadeem
+
+🎓 First-year B.Tech ECE (Data Science) student  
+🐍 Learning Python & Data Analysis  
+📊 Building beginner-friendly projects  
+🚀 Aspiring Data Science Intern
+
 
 <!--
 **n4dee/n4dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
